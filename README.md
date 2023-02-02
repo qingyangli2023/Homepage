@@ -2,7 +2,7 @@
 
 Machine learning： [kaggle](www.kaggle.com)
 
-- $\text{qylixxxx@xxx.com ；lelexxxx}
+- $\text{qylixxxx@xxx.com ；lelexxxx}$
 
 Latex:  [overleaf](overleaf.com)
 
