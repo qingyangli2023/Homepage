@@ -12,7 +12,9 @@ Github: [github](github.com)
 
 - `qylixxxx@xxx.com` / `lelexxxpku`
 
-### 吴恩达机器学习笔记 - octave 教程（python 实现）
-- [octave2python](octave2python.md)
+### 吴恩达机器学习笔记 
+- [5. octave 教程 python 实现](octave2python.md)
+  - [featuresX.dat](featuresX.dat)
+  - [priceY.dat](priceY.dat)
 
 
