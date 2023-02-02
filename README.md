@@ -1,4 +1,4 @@
-# 常用网站
+### 常用网站
 
 Machine learning： [kaggle](www.kaggle.com)
 
@@ -12,7 +12,7 @@ Github: [github](github.com)
 
 - `qylixxxx@xxx.com` / `lelexxxpku`
 
-# 吴恩达机器学习笔记 - octave 教程（python 实现）
+### 吴恩达机器学习笔记 - octave 教程（python 实现）
 - [octave2python](octave2python.md)
 
 
