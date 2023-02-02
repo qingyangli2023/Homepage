@@ -2,12 +2,12 @@
 
 Machine learning： [kaggle](www.kaggle.com)
 
-- qyli$****$@$***$.com ；lele$****$
+- qylixxxx@xxx.com ；lelexxxx
 
 Latex:  [overleaf](overleaf.com)
 
-- qyli$****$@$***$.com ；lele$****$
+- qylixxxx@xxx.com ；lelexxxx
 
 Github: [github](github.com)
 
-- qyli$****$@$***$.com ；lele$****$pku
+- qylixxxx@xxx.com ；lelexxxpku
