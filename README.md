@@ -18,8 +18,6 @@ Github: [github](github.com)
   - [featuresX.dat](featuresX.dat)
   - [priceY.dat](priceY.dat)
   
-[课程作业](Exercise.pdf)
-
-[课程作业python版]()
+[课程作业python版](https://github.com/qingyangli2023/Coursera-ML-AndrewNg-Notes/tree/master/code)
 
 
